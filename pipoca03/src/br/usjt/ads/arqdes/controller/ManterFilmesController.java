@@ -28,6 +28,7 @@ public class ManterFilmesController {
 		return "index";
 	}
 	
+	
 	@RequestMapping("/inicio")
 	public String home() {
 		return "index";
